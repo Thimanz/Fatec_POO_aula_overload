@@ -15,7 +15,7 @@ public class Impressora{
     public void exibir(String s1, String s2, String s3){
         System.out.println(s1 + " " + s2 + " " + s3);
     }
-    public void exibir(String i1, int i2, String s){
+    public void exibir(int i1, int i2, String s){
         System.out.println(i1 + " " + i2 + " " + s);
     }
 }
